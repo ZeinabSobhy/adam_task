@@ -1,0 +1,38 @@
+.continer{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+}
+.detiles{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 50px 50px 0 50px;
+}
+
+.title{
+    margin: 50px 50px -35px 50px;
+    font-size: 21px;
+    font-style: revert;
+}
+
+
+.icon{
+    margin: 0 10px 0 0;
+    width: 15px;
+    height: 15px;
+}
+.call{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+
+
+
+
+
